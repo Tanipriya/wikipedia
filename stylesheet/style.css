@@ -2,6 +2,7 @@
 
 .main-container {
     font-family: "Roboto";
+   
 }
 
 .wiki-search-header {
@@ -16,8 +17,9 @@
 }
 
 .wiki-logo {
-    margin-bottom: 30px;
-    width: 150px;
+    margin-bottom: 50px;
+    margin-top: 50px;
+    width: 180px;
 }
 
 .search-input {
